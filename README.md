@@ -7,7 +7,7 @@ Web and mobile developer
 Front-end developer with knowledge of HTML, CSS, Javascript, Typescript, ReactJs(NextJS) and React Native. I see programming as a way to focus my mind
 
 * 🌍  I'm based in Enugu State, Nigeria.
-* 🖥️  See my portfolio at [https://chigbo-james.vercel.app](http://https://chigbo-james.vercel.app)
+* 🖥️  See my portfolio at [https://chigbo-james.vercel.app](http://chigbo-james.vercel.app)
 * ✉️  You can contact me at [jamesalehandro@gmail.com](mailto:jamesalehandro@gmail.com)
 * 🧠  I'm learning Data Structures and algorithms
 * 🤝  I'm open to collaborating on Mobile and web applications
