@@ -13,9 +13,6 @@ Front-end developer with knowledge of HTML, CSS, Javascript, Typescript, ReactJs
 * 🤝  I'm open to collaborating on Mobile and web applications
 * ⚡  I usually believed programming is for gods. Hey!, maybe I am a god
 
-<a href="https://www.github.com/Jamesalehandro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Jamesalehandro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -45,7 +42,5 @@ src="https://img.shields.io/github/followers/Jamesalehandro?logo=github&style=fo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Jamesalehandro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamesalehandro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Jamesalehandro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jamesalehandro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Jamesalehandro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamesalehandro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
