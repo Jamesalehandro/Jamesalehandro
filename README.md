@@ -9,7 +9,7 @@ Front-end developer with knowledge of HTML, CSS, Javascript, Typescript, ReactJs
 * 🌍  I'm based in Enugu State, Nigeria.
 * 🖥️  See my portfolio at [https://chigbo-james.vercel.app](http://chigbo-james.vercel.app)
 * ✉️  You can contact me at [jamesalehandro@gmail.com](mailto:jamesalehandro@gmail.com)
-* 🧠  I'm learning Data Structures and algorithms
+* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Mobile and web applications
 * ⚡  I usually believed programming is for gods. Hey!, maybe I am a god
 
